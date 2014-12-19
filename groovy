@@ -38,7 +38,7 @@ groovy> println 2/3*3
 •	se repite tres veces el hola por la multiplicación.
 groovy> println "hola" * 3 
  
-holaholahola
+holahola
 
 No es lo mismo te da un error
 groovy> printnl 3*"hola" 
@@ -51,4 +51,4 @@ Possible solutions: multiply(java.lang.Number), multiply(java.lang.Character)
 	at ConsoleScript1.run(ConsoleScript1:1)
 •	groovy> println "GroovyesGroovy"-"o" 
  
-GrovyesGroovy
+Grovyes
