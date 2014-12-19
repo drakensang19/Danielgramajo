@@ -2,7 +2,7 @@
  
 0.6666666667 
 
-Si es exacto y correcto
+Si es exacto y corresponde 
 
 •	groovy> println 7 * 8 
  
@@ -45,7 +45,7 @@ groovy> printnl 3*"hola"
  
 Exception thrown
 
-groovy.lang.MissingMethodException: No signature of method: java.lang.Integer.multiply() is applicable for argument types: (java.lang.String) values: [hola]
+groovy.lang.MissingMethodException: si signature of method: java.lang.Integer.multiply() is applicable for argument types: (java.lang.String) values: [hola]
 Possible solutions: multiply(java.lang.Number), multiply(java.lang.Character)
 
 	at ConsoleScript1.run(ConsoleScript1:1)
